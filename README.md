@@ -11,6 +11,9 @@
 
 2 切换webview 进行web自动化
 
+### 启动appium
+运行代码之前启动appium
+
 ### 环境
 - node.js:  v8.9.1
 - selenum-webdriver: 3.6.0 
